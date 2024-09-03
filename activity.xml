@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+    <Me>
+        <Name>Aviral</Name>
+        <Hobbies>
+            <Hobby>Swimming</Hobby>
+            <Hobby>Traveling</Hobby>
+        </Hobbies>
+    </Me>
+    <Person2>
+        <Name>Tanishq</Name>
+        <Hobbies>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Gardening</Hobby>
+        </Hobbies>
+    </Person2>
+    <Person3>
+        <Name>Emily</Name>
+        <Hobbies>
+            <Hobby>Photography</Hobby>
+            <Hobby>Hiking</Hobby>
+        </Hobbies>
+    </Person3>
+    <Person4>
+        <Name>Michael Brown</Name>
+        <Hobbies>
+            <Hobby>Gaming</Hobby>
+            <Hobby>Music</Hobby>
+        </Hobbies>
+    </Person4>
+    <Person5>
+        <Name>Alice Davis</Name>
+        <Hobbies>
+            <Hobby>Painting</Hobby>
+            <Hobby>Yoga</Hobby>
+        </Hobbies>
+    </Person5>
+    <Person6>
+        <Name>David Wilson</Name>
+        <Hobbies>
+            <Hobby>Cycling</Hobby>
+            <Hobby>Cooking</Hobby>
+        </Hobbies>
+    </Person6>
+    <Person7>
+        <Name>Laura Martinez</Name>
+        <Hobbies>
+            <Hobby>Writing</Hobby>
+            <Hobby>Running</Hobby>
+        </Hobbies>
+    </Person7>
+    <Person8>
+        <Name>James Garcia</Name>
+        <Hobbies>
+            <Hobby>Fishing</Hobby>
+            <Hobby>Reading</Hobby>
+        </Hobbies>
+    </Person8>
+    <Person9>
+        <Name>Olivia Anderson</Name>
+        <Hobbies>
+            <Hobby>Skiing</Hobby>
+            <Hobby>Traveling</Hobby>
+        </Hobbies>
+    </Person9>
+    <Person10>
+        <Name>Daniel Thomas</Name>
+        <Hobbies>
+            <Hobby>Chess</Hobby>
+            <Hobby>Photography</Hobby>
+        </Hobbies>
+    </Person10>
+</People>
